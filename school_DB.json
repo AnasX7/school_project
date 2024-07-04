@@ -1,0 +1,31 @@
+{
+  "School": [
+    {
+      "Age": 20,
+      "City": "Abu_Dhabi",
+      "FatherNumber": "0564929264",
+      "Grade": 12,
+      "ID": 1,
+      "Name": "Anas",
+      "Sex": "Male"
+    },
+    {
+      "Age": 20,
+      "City": "Mukalla",
+      "FatherNumber": "738948076",
+      "Grade": 12,
+      "ID": 2,
+      "Name": "Odai",
+      "Sex": "Male"
+    },
+    {
+      "Age": 20,
+      "City": "Mukalla",
+      "FatherNumber": "738055946",
+      "Grade": 12,
+      "ID": 3,
+      "Name": "Haneen",
+      "Sex": "Female"
+    }
+  ]
+}
